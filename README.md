@@ -17,8 +17,6 @@
 
 </center>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [jameskingice](https://github.com/jameskingice/portfolio). Thanks!
-
 ## Built With
 
 My personal portfolio <a href="#" target="_blank">James King</a> which features some of my github projects as well as my resume and technical skills.<br/>
