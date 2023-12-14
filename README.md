@@ -17,8 +17,6 @@
 
 </center>
 
-## TL;DR
-
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [jameskingice](https://github.com/jameskingice/portfolio). Thanks!
 
 ## Built With
