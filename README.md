@@ -17,8 +17,6 @@
 
 </center>
 
-## Built With
-
 My personal portfolio <a href="#" target="_blank">James King</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
